@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simple Sharing Buttons: un plugin WordPress pentru distribuirea articolelor"
+title: "Plugin WordPress pentru distribuirea articolelor"
 date: 2026-05-27
 categories: pluginuri wordpress
 ---
