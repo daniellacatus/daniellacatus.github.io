@@ -28,7 +28,7 @@ Butoanele sunt afișate într-un format simplu, cu iconițe rotunde și etichet�
 
 ## Unde a fost testat
 
-Pluginul a fost testat pe [Info Călan](https://infocalan.ro/) și [Info Cultural](https://infocultural/), unde butoanele de distribuire sunt afișate la finalul articolelor individuale.
+Pluginul a fost testat pe [Info Călan](https://infocalan.ro/) și [Info Cultural](https://infocultural.eu/), unde butoanele de distribuire sunt afișate la finalul articolelor individuale.
 
 Testarea a urmărit în principal:
 
