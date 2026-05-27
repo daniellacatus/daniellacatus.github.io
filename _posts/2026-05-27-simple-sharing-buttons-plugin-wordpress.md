@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plugin WordPress pentru distribuirea articolelor"
+title: "Plugin pentru distribuirea articolelor"
 date: 2026-05-27
 categories: pluginuri wordpress
 ---
