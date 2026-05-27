@@ -1,4 +1,6 @@
 ---
+title: Blog tehnic Daniel Lăcătuș
+---
 layout: home
 
 
